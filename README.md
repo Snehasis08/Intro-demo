@@ -1,4 +1,4 @@
 # Intro-demo
 My first git repository.
 <br>
-Author -Snehasis
+Author -Snehasis Padhi
